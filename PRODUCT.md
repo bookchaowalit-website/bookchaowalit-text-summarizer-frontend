@@ -4,6 +4,11 @@
 **Generated:** 2026-08-11 (bulk Book Dev closeout)  
 **Status:** starter / portfolio boundary
 
+## Current product truth
+
+- This is a browser-only extractive summarizer: it keeps the first N sentences and counts recurring words.
+- It does not understand meaning, call an LLM API, fact-check, or persist text remotely.
+
 ## Purpose
 
 Portfolio repository under Book Dev. This brief records ownership and the
